@@ -11,3 +11,5 @@ cat id_rsa.pub
 #在Github网站添加公钥
 
 #使用SSH协议
+
+#...
